@@ -17,6 +17,7 @@ birthday_kids.each do |name, age|
     print "Happy Birthday #{name}!"
   else
     false
+    end
   end
 end
 
